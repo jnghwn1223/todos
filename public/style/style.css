@@ -23,6 +23,17 @@ html {
     background-color: darkgoldenrod;
 }
 
+.status-container {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-around;
+    font-size: 2rem;
+}
+.selected.status-item {
+    background-color: yellowgreen;
+    border-radius: 20px;
+}
+
 .todos {
     padding: 6px;
 }
