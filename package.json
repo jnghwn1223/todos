@@ -1,0 +1,22 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "description": "todos",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnghwn1223/todos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnghwn1223/todos/issues"
+  },
+  "homepage": "https://github.com/jnghwn1223/todos#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
